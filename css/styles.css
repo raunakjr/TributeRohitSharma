@@ -1,0 +1,118 @@
+body{
+  font-family: 'Montaga', serif;
+  background-color: grey;
+}
+.image
+{
+width:500px;
+height: 500px;
+border-radius: 100%;
+
+
+}
+.Xy
+{
+  margin-left: 50px;
+}
+
+.middle
+{ margin: 0 auto;
+  background-color: grey;
+  position: relative;
+  text-align: center;
+  width:80%;
+}
+.Refrence{
+  text-align:center;
+}
+.coupl
+{
+border-radius: 100%;
+width:500px;
+height: 500px;
+
+}
+.span
+{
+  text-decoration: underline;
+
+
+}
+hr
+{
+
+  border-style: none;
+  border-top-style:dotted;
+  border-color: black;
+  margin: 100px auto;
+  width:75%;
+}
+a
+{
+  color:yellow;
+  font-family: sans-serif;
+  margin:10px 30px;
+  text-decoration: none;
+  font-size:20px;
+}
+.intro{
+   margin-top: 50px;
+
+  position: absolute;
+}
+.life{
+  text-align: center;
+}
+.rsl
+{
+  width:40%;
+  margin:0 auto;
+}
+p{
+  font-size: 30px;
+  padding-top: 20px;
+}
+li{
+  line-height: 2;
+  font-size: 1.215rem;
+
+}
+h1{
+  margin-bottom: 0;
+  color:blue;
+  font-size: 100px;
+  font-family: 'Montez', cursive;
+}
+h3
+{
+  font-size: 30px;
+}
+.Rohit
+{
+  font-size: 2rem;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  margin: 0;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
